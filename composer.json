@@ -1,0 +1,16 @@
+{
+  "name": "bishu/phpfunction",
+  "description": "Common PHP Function",
+  "type": "library",
+  "require": {
+    "php": ">=8.2.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "bishu",
+      "email": "bishu@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
