@@ -3,9 +3,9 @@
   "description": "Common PHP Function",
   "type": "library",
   "require": {
-    "php": ">=8.2.0"
+    "php": "^7.1.8 || ^8.0"
   },
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "bishu",
